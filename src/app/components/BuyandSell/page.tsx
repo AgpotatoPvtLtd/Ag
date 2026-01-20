@@ -89,7 +89,7 @@ const BuyandSell: React.FC = () => {
           <meta name="keywords" content="potatoes, frozen products, byproducts" />
         </Head>
         <Image 
-  src="/assets/buysell2.webp" 
+  src="/assets/buysell2.png" 
   alt="Marketplace" 
   className={styles.marketimage} 
   layout="responsive" 
